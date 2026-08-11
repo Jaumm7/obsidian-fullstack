@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "2606eef385dc2a57",
+    "type": "split",
+    "children": [
+      {
+        "id": "46444f4487cdabb0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8f0c8478fe2a37c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FullStack/Anotacoes.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Anotacoes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "915dd26efd3b9bd1",
+    "type": "split",
+    "children": [
+      {
+        "id": "920528ceb6f56022",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18e6e2d2e3ea3eb5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "62fced776b75f7a1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "9f6c7aa68ae3eb50",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7c1f5ee18ad6e151",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0ac6a73876ce75d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5bab9dc95739be9c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Semana A.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Semana A"
+            }
+          },
+          {
+            "id": "cb920e91e98e32c3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Semana A.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Semana A"
+            }
+          },
+          {
+            "id": "324754c3428aa762",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "2df506db8cc08b0c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "1c6cda6357acd40d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Semana A.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Semana A"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "18e6e2d2e3ea3eb5",
+  "lastOpenFiles": [
+    "README.md",
+    "LICENSE",
+    "obsidian-fullstack/README.md",
+    "obsidian-fullstack/LICENSE",
+    "obsidian-fullstack",
+    "Semana A.md",
+    "FullStack/Anotacoes.md",
+    "ProgJogos/portifolio.md",
+    "ProgJogos/materialDeEstudos/gitGithub.md",
+    "ProgJogos/materialDeEstudos",
+    "ProgJogos",
+    "FullStack/backend_apostilas_md-main/backend_apostilas_md-main/dotnet_8/15-Construindo-Movies-API-Passo-a-Passo.md",
+    "FullStack/backend_apostilas_md-main/backend_apostilas_md-main/dotnet_8/14-Autenticacao-JWT.md",
+    "FullStack/backend_apostilas_md-main/backend_apostilas_md-main/dotnet_8/13-Entity-Framework-Core-e-PostgreSQL.md",
+    "FullStack/backend_apostilas_md-main/backend_apostilas_md-main/dotnet_8/11-Arquitetura-Controllers-Services-DTOs-Models.md",
+    "FullStack/backend_apostilas_md-main/backend_apostilas_md-main/dotnet_8/12-Boas-Praticas-e-Clean-Code.md",
+    "FullStack/backend_apostilas_md-main/backend_apostilas_md-main/dotnet_8/10-Construindo-API-REST-ASPNET-Core.md",
+    "FullStack/backend_apostilas_md-main/backend_apostilas_md-main/dotnet_8/09-Fundamentos-de-API-e-HTTP.md",
+    "FullStack/backend_apostilas_md-main/backend_apostilas_md-main/dotnet_8/08-Interfaces-e-Classes-Abstratas.md",
+    "FullStack/backend_apostilas_md-main/backend_apostilas_md-main/dotnet_8/07-Modificadores-e-Static.md",
+    "FullStack/backend_apostilas_md-main/backend_apostilas_md-main/dotnet_8/05-Colecoes-Array-List-IEnumerable.md",
+    "FullStack/backend_apostilas_md-main/backend_apostilas_md-main/dotnet_8/06-Orientacao-a-Objetos.md",
+    "FullStack/backend_apostilas_md-main/backend_apostilas_md-main/dotnet_8/04-Metodos-e-Modularizacao.md",
+    "FullStack/backend_apostilas_md-main/backend_apostilas_md-main/dotnet_8/03-Logica-de-Programacao-com-CSharp.md",
+    "FullStack/backend_apostilas_md-main/backend_apostilas_md-main/dotnet_8/02-CSharp-e-DotNet-Primeiros-Passos.md",
+    "FullStack/backend_apostilas_md-main/backend_apostilas_md-main/dotnet_8/01-Fundamentos-Programacao-e-Backend.md",
+    "FullStack/backend_apostilas_md-main/backend_apostilas_md-main/dotnet_8/00-Index.md",
+    "FullStack/backend_apostilas_md-main/backend_apostilas_md-main/dotnet_8",
+    "FullStack/backend_apostilas_md-main/backend_apostilas_md-main/dotnet_10/15-Construindo-Movies-API-Passo-a-Passo.md",
+    "FullStack/backend_apostilas_md-main/backend_apostilas_md-main/dotnet_10/14-Autenticacao-JWT.md",
+    "FullStack/backend_apostilas_md-main/backend_apostilas_md-main/dotnet_10/13-Entity-Framework-Core-e-PostgreSQL.md",
+    "FullStack/backend_apostilas_md-main/backend_apostilas_md-main/LICENSE",
+    "FullStack/backend_apostilas_md-main/backend_apostilas_md-main/dotnet_10",
+    "FullStack/backend_apostilas_md-main/backend_apostilas_md-main",
+    "FullStack/backend_apostilas_md-main",
+    "Sem título.canvas"
+  ]
+}
